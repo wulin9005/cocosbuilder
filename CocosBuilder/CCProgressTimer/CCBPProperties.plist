@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritsFrom</key>
+	<string>CCLayer</string>
+	<key>className</key>
+	<string>CCBProgressTimer</string>
+	<key>editorClassName</key>
+	<string>CCBProgressTimer</string>
+	<key>properties</key>
+	<array>
+		<dict>
+			<key>displayName</key>
+			<string>CCBProgressTimer</string>
+			<key>name</key>
+			<string>CCBProgressTimer</string>
+			<key>type</key>
+			<string>Separator</string>
+			<key>dontSetInEditor</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>default</key>
+			<array>
+				<string></string>
+				<string></string>
+			</array>
+			<key>affectsProperties</key>
+			<array/>
+			<key>displayName</key>
+			<string>BackGround Frame</string>
+			<key>type</key>
+			<string>SpriteFrame</string>
+			<key>name</key>
+			<string>displayFrame</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<array>
+				<string></string>
+				<string></string>
+			</array>
+			<key>displayName</key>
+			<string>Front Frame</string>
+			<key>type</key>
+			<string>SpriteFrame</string>
+			<key>name</key>
+			<string>frontSpriteFrame</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>yDst</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>yDst</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>xDst</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>xDst</string>
+		</dict>
+		<dict>
+			<key>displayName</key>
+			<string>percentage</string>
+			<key>type</key>
+			<string>Float</string>
+			<key>name</key>
+			<string>percentage</string>
+		</dict>
+	</array>
+	<key>propertiesOverridden</key>
+	<array/>
+</dict>
+</plist>
